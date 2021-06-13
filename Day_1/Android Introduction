@@ -1,0 +1,103 @@
+	Android is an open – source software platform created by Google and the Open Handset Alliance.
+
+	Android is a software stack for mobile devices that includes an operating system, middleware and key applications.
+
+	The Android SDK provides the tools and the APIs necessary to begin developing applications on the Android platform using the Java Programming Language.
+	Android is a software environment built for mobile devices and not a Hardware platform.
+
+	Features:-
+	Attractive UI
+	Provide Easy Connectivity
+	Storage:- SQLite,a lightweight relational database, is used for data storage purposes.
+	Resizable widgets
+	Multi-tasking etc…
+ 
+Advantages for Android developer
+	Open Source (Free to Download and Use)
+	Source Code Freely available
+	Customizable UI
+	Easy App Approvals
+	Multi-Network App Distribution
+	Low Investment
+	Constantly Updating with New Features
+	85% Users are Using Android Devices
+ 
+
+Disadvantages for Android developer
+	Few Devices Support Newer	version
+	Device Issues: Storage Limit; Drains Battery; Overheating
+	Internal Apps Occupy more spaces
+	Device Defects
+	Defects in Apps and Play Store
+	So Many Devices there so Developer need to Focus on it.
+
+History of Android:
+	The code names of android ranges from A to N currently, such as …
+	Aestro,
+ 
+	Blender,
+	Cupcake,
+	Donut,
+	Eclair,
+	Froyo,
+	Gingerbread,
+	Honeycomb,
+	Ice Cream Sandwitch,
+	Jelly Bean,
+	KitKat,
+	Lollipop,
+	Marshmallow
+	Nougat.
+	O
+	P
+
+
+Tools required to start development
+
+	Android Studio
+	JDK
+	Genymotion (Android emulator for developers)
+
+
+Applications:
+	Android will ship with a set of core applications including an email client, SMS Program, Calendar, Maps, Browser, Contacts and others.
+	All applications are written using the Java Programming Language.
+
+Applications component
+
+	Application components are loosely coupled by the application manifest file AndroidManifest.xml that describes each component of the application and how they interact.
+
+	There are following four main components that can be used within an Android application.
+
+
+Application Framework
+
+	Android offers developers the ability to build extremely rich and innovative applications.
+	Developers are free to take advantage of the device hardware, access location information, run background services and much more.
+	The Application architecture is designed to simplify the reuse of components.
+	Any applications can publish its capabilities and any other application may then make use of those capabilities.
+ 
+Libraries
+	Android includes a set of C/C++ libraries used by the various components of the Android System.
+
+Android Runtime
+	Android includes a set of core libraries that provides most of the functionality available in the core libraries of the Java Programming Language.
+	Every Android Application runs in its own process, with its own instance of the Dalvik virtual machine.
+	Dalvik has been written so that a device can run multiple VMs efficiently.
+	The Dalvik VM executes files in the Dalvik Executable(.dex) format which is optimized for minimal memory footprint.
+ 
+Cont...
+	Android includes a set of core libraries that provides most The VM is register-based.
+
+	It runs classes and compiles by Java Language Compiler.
+	It transforms these classes into the .dex format by included “dx” tool.
+ 
+Linux Kernal
+	Android relies on Linux version 2.6.
+
+	It provides the core system services such as security, memory management, process management, networks and driver models.
+	The kernel also acts as an abstraction layer between the hardware and the rest of the software stack.
+
+
+
+
